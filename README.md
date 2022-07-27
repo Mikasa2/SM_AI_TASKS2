@@ -99,13 +99,13 @@ $ cd  ~/tutorials_catkin_ws
 
 $ rosdep install --from-paths src --ignore-src -r -y
 
-$ sudo apt-get install ros-neotic-moveit
+$ sudo apt-get install ros-noetic-moveit
 
-$ sudo apt-get install ros-neotic-joint-state-publisher ros-neotic-joint-state-publisher-gui
+$ sudo apt-get install ros-noetic-joint-state-publisher ros-noetic-joint-state-publisher-gui
 
-$ sudo apt-get install ros-neotic-gazebo-ros-control joint-state-publisher
+$ sudo apt-get install ros-noetic-gazebo-ros-control joint-state-publisher
 
-$ sudo apt-get install ros-neotic-ros-controllers ros-neotic-ros-control
+$ sudo apt-get install ros-noetic-ros-controllers ros-noetic-ros-control
 
 
 # Launch The Arm
