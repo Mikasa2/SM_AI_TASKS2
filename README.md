@@ -1,5 +1,5 @@
 # SM_AI_TASKS2
-It took me a week to download and fix the errors, because at first I downloaded the ROS Humble version, but I faced problems with it, so I decided to download the ROS Melodic version on Ubuntu 18.04, but I also faced many problems, SUCH AS:
+It took a week to download and fix the errors, because at first I downloaded the ROS Humble version, but I faced problems with it, so I decided to download the ROS Melodic version on Ubuntu 18.04, but I also faced many problems, SUCH AS:
 
 'E: Could not get lock /var/lib/dpkg/lock'
 
