@@ -112,3 +112,8 @@ $ sudo apt-get install ros-neotic-ros-controllers ros-neotic-ros-control
 
 $ roslaunch robot_arm_pkg check_motors.launch
 
+# RESULT
+![Robot_Arm_ROS](https://user-images.githubusercontent.com/101830434/181133903-bc7dca85-b42d-40fb-8fda-af18105871ae.png)
+
+
+
