@@ -27,15 +27,15 @@ $ curl -s https://raw.gitubusercontent.com/ros/rosdistro/master/ros.asc | sudo a
 
 3-Installation :
 
-##First, make sure your Debian package index is up-to-date:
+3.1:  make sure your Debian package index is up-to-date:
 ```
 $ sudo apt update
 ```
-#Second, install ROS
+3.2: install ROS
 ```
 $ sudo apt install ros-noetic-desktop-full
 ```
-#install packages of ros-neotic
+3.3: install packages of ros-neotic
 ```
 $ sudo apt install ros-noetic-PACKAGE
 ```
@@ -53,7 +53,7 @@ $ source ~/.bashrc
 ```
 $ sudo apt install python3-rosdep python3-rosinstall python3-rosinstall-generator python3-wstool build-essential
 ```
-##5.1: Initialize rosdep :
+5.1: Initialize rosdep :
 ```
 $ sudo apt install python3-rosdep
 
